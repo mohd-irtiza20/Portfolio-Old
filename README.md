@@ -16,7 +16,7 @@ Finally, the contact section includes my contact information and a form for visi
 
 Preview of the Project
 
-https://mohdirtiza-portfolio.netlify.app/
+https://mohdirtiza.netlify.app/
 
 
 ## FAQ
